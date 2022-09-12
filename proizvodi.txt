@@ -1,0 +1,10 @@
+1 Mobitel 600 0 5
+2 Slusalice 45 0 11
+3 Mis 30 1 15
+4 Tastatura 75 1 13
+5 Monitor 255 0 3
+6 Sat 135 1 12
+7 Laptop 1200 1 7
+8 Kamera 450 0 10
+9 Tablet 800 1 2
+10 Mikrofon 95 0 11
